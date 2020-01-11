@@ -5,5 +5,6 @@ public class Test1 {
 
 		int i = 0;
 		String a = "abc";
+		System.out.println("0");
 	}
 }
